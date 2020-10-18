@@ -1,0 +1,11 @@
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\bin\Debug\JLaneAssignment1.exe.config
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\bin\Debug\JLaneAssignment1.exe
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\bin\Debug\JLaneAssignment1.pdb
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\obj\Debug\JLaneAssignment1.csprojAssemblyReference.cache
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\obj\Debug\JLaneAssignment1.SokobanForm.resources
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\obj\Debug\JLaneAssignment1.Properties.Resources.resources
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\obj\Debug\JLaneAssignment1.csproj.GenerateResource.cache
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\obj\Debug\JLaneAssignment1.exe
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\obj\Debug\JLaneAssignment1.pdb
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\obj\Debug\JLaneAssignment1.DesignForm.resources
+C:\Projects\GamesWithDataStructures\JLaneAssignment1\JLaneAssignment1\obj\Debug\JLaneAssignment1.PlayForm.resources
